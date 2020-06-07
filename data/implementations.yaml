@@ -1402,3 +1402,14 @@
     - gokit
     - gorm
     - postgres
+
+"Java 14 with PureStack":
+  description:
+    An example implementation with <a href="https://github.com/tonivade/purestack">purestack</a> and H2.
+  sourcecode_url: https://github.com/tonivade/pure-todo-backend
+  live_url: https://tonivade.es/todo
+  tags:
+    - java
+    - jvm
+    - purestack
+    - h2
